@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Taller_03"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Taller_03">
+				<Option output="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Taller_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 Taller_03"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Taller_03/fast">
+				<Option output="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Taller_03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 Taller_03/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ruslan/Facultad/Algo1\ 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/Debug/gtest/subdir.mk">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/Debug/lib/gtest/subdir.mk">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/Debug/makefile">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/Debug/objects.mk">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/Debug/sources.mk">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/Debug/src/subdir.mk">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/Debug/subdir.mk">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/Debug/test/subdir.mk">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/10000NumerosEntre1y50.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/100NumerosRandomEntre(1y10)1.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/100NumerosRandomEntre(1y10)2.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/10NumerosEntre1y10EnOrden2.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/10NumerosEntre1y50EnOrden1.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/5000NumerosEntre1y1000EnOrden1.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/5000NumerosEntre1y1000EnOrden2.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/cantidadAparicionesDePalabra.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/elementoMedio.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/pocosNumerosRandom.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/sinNumeros.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/subSecuenciaCrecienteMasLarga.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/in/unNumero.in">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/sol/cantidadAparicionesVectorChico.sol">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/sol/cantidadAparicionesVectorGrande.sol">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/sol/ordenarSecuenciasMuchosNumeros.sol">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/sol/ordenarSecuenciasPocosNumeros.sol">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/archivos/sol/promedioMuchosNumerosRandom.sol">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/lib/gtest/gtest-all.cc">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/lib/gtest/gtest.h">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/main.cpp">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/src/ejercicios.cpp">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/src/ejercicios.h">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/test/Ej1TEST.cpp">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/test/Ej2TEST.cpp">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/test/Ej3TEST.cpp">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/test/Ej4TEST.cpp">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/test/Ej5TEST.cpp">
+			<Option target="Taller_03"/>
+		</Unit>
+		<Unit filename="/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

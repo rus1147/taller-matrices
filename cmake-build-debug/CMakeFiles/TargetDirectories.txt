@@ -1,0 +1,3 @@
+/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ruslan/Facultad/Algo1 2017/P12-tallerMatrices/Taller-03/cmake-build-debug/CMakeFiles/Taller_03.dir
